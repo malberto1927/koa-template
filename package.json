@@ -1,0 +1,25 @@
+{
+  "name": "koa-sequelize",
+  "version": "1.0.0",
+  "description": "Template koa with sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "koa",
+    "nodejs",
+    "sequelize"
+  ],
+  "author": "Mario Alberto Villagrana Hurtado",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.8.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-helmet": "^5.1.0",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^7.4.0",
+    "sequelize": "^5.19.2"
+  }
+}
