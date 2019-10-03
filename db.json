@@ -1,0 +1,59 @@
+{
+    "sports": [
+        {
+            "name": "",
+            "leagues": [
+                {
+                    "name": "",
+                    "teams": {
+                        "name": "",
+                        "icon": ""
+                    }
+                }
+            ]
+        }
+    ],
+    "games": [
+        {
+            "team1": "",
+            "team2": "",
+            "result": ""
+        }
+    ],
+    "pools": [
+        {
+            "name": "",
+            "owner": "",
+            "games": [
+                "",
+                ""
+            ]
+        }
+    ],
+    "owners": [
+        {
+            "name": "",
+            "email": "",
+            "password": ""
+        }
+    ],
+    "players": [
+        {
+            "name": "",
+            "email": "",
+            "password": "",
+            "pools": [
+                {
+                    "id": "",
+                    "results": [
+                        {
+                            "game": "",
+                            "result": "",
+                            "corect": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
