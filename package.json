@@ -20,6 +20,6 @@
     "koa-helmet": "^5.1.0",
     "koa-logger": "^3.2.1",
     "koa-router": "^7.4.0",
-    "sequelize": "^5.22.5"
+    "sequelize": "^6.29.0"
   }
 }
